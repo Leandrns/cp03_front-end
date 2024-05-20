@@ -1,7 +1,11 @@
+body {
+    margin: 15px;
+}
+
 header {
     margin-bottom: 15px;
     height: 140px;
-    border: solid 1px black;
+    background-color: rgb(162, 209, 209);
 }
 
 section {
@@ -15,17 +19,17 @@ section {
     margin-right: 15px;
     height: 100%;
     width: 20%;
-    border: solid 1px black;
+    background-color: rgb(162, 209, 209);
 }
 
 .content {
     height: 100%;
     width: 80%;
-    border: solid 1px black;
+    background-color: rgb(162, 209, 209);
 }
 
 footer {
     margin-top: 15px;
     height: 90px;
-    border: solid 1px black;
+    background-color: rgb(162, 209, 209);
 }

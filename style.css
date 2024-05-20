@@ -1,0 +1,31 @@
+header {
+    margin-bottom: 15px;
+    height: 140px;
+    border: solid 1px black;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 600px;
+}
+
+.slidebar {
+    margin-right: 15px;
+    height: 100%;
+    width: 20%;
+    border: solid 1px black;
+}
+
+.content {
+    height: 100%;
+    width: 80%;
+    border: solid 1px black;
+}
+
+footer {
+    margin-top: 15px;
+    height: 90px;
+    border: solid 1px black;
+}

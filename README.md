@@ -4,5 +4,5 @@
 #### Turma: 1ESA
 #### Engenharia de Software
 
-Esse Checkpoint consiste na elaboração de um layout em HTML e CSS, solicitado pelo professor Lucas Silva.
-Segue o link para a página no GitHub Pages:
+<p>Esse Checkpoint consiste na elaboração de um layout em HTML e CSS, solicitado pelo professor Lucas Silva.</p>
+<p>Segue o link para a página no GitHub Pages: https://leandrns.github.io/cp03_front-end/</p>
